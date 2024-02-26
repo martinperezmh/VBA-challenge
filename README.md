@@ -1,2 +1,2 @@
 # VBA-challenge
-VBA in Excell pre Python capability
+VBA in Excel pre Python capability
